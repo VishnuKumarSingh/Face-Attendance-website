@@ -182,8 +182,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mohammad Fayas Khan**
 
-- GitHub: [@MohammadFayasKhan](https://github.com/MohammadFayasKhan)
-- LinkedIn: [Mohammad Fayas Khan](https://www.linkedin.com/in/fayas-khan-fk/)
+- LinkedIn: [Mohammad Fayas Khan](https://www.linkedin.com/in/vishnu-kumar-singh-291a3530a)
 
 ---
 
