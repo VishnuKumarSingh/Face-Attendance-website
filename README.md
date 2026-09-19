@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧑‍💻 Face Recognition Attendance System
 
 An advanced AI-powered attendance management system using facial recognition technology. Built with FastAPI backend and React frontend, featuring real-time face detection, geolocation verification, and a beautiful glassmorphism UI.
@@ -189,3 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   Made with ❤️ using AI-powered Face Recognition
 </p>
+=======
+# Face-Attendance-website
+Face Attendance System — Full-stack web application for automated attendance using face recognition. It enables user authentication, face registration, real-time face detection, and automatic attendance tracking with a simple and responsive interface.
+>>>>>>> 41081dd043f105eed1b4bd1cc36591c521aebf9d
