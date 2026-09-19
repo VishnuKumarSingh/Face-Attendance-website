@@ -180,11 +180,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Mohammad Fayas Khan**
-
-- LinkedIn: [Mohammad Fayas Khan](https://www.linkedin.com/in/vishnu-kumar-singh-291a3530a)
-
----
 
 <p align="center">
   Made with ❤️ using AI-powered Face Recognition
